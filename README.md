@@ -13,8 +13,8 @@ This repository contains the setup for the data modeling modules in Weeks 1 and 
 **TL;DR**
 
 1. [Clone the repository](https://github.com/HazmiAmzar/Data-Modelling/blob/main/README.md).
-2. [Start Postgres instance](https://github.com/DataExpert-io/data-engineer-handbook/edit/main/bootcamp/materials/1-dimensional-data-modeling/README.md#2%EF%B8%8F%E2%83%A3run-postgres).
-3. [Connect to Postgres](https://github.com/DataExpert-io/data-engineer-handbook/edit/main/bootcamp/materials/1-dimensional-data-modeling/README.md#threeconnect-to-postgres-in-database-client) using your preferred database management tool.
+2. [Start Postgres instance](https://github.com/HazmiAmzar/Data-Modelling?tab=readme-ov-file#1%EF%B8%8F%E2%83%A3run-postgres).
+3. [Connect to Postgres](https://github.com/HazmiAmzar/Data-Modelling?tab=readme-ov-file#twoconnect-to-postgres-in-local-database-client) using your preferred database management tool.
 
 For detailed instructions and more information, please refer to the step-by-step instructions below.
 
